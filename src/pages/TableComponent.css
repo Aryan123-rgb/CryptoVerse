@@ -1,0 +1,7 @@
+.table-class::-webkit-scrollbar{
+    display: none;
+}
+
+.table-class::-webkit-scrollbar-thumb{
+    display: none;
+}
